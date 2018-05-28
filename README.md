@@ -1,7 +1,9 @@
 # UnitySyncReadStreamingAssets
 StreamingAssets Path Reader For Unity With Sync Method
 
+Assets:Unity Project Folder
 
+PathLib:Android Studio Project Folder
 
 ```c#
 public SyncPathSystem syncPath;
